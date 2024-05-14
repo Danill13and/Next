@@ -1,0 +1,64 @@
+.main{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0%;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+
+    background-color: #A49393;
+}
+.form{
+    padding:0%;
+    flex-direction: column;
+    display: flex;
+    width: 600px;
+    height: 800px;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+}
+.form_lable{
+    min-height: 70%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+
+}
+.button{
+    margin-top: 7%;
+    background-color: #524449;
+    border-radius: 10;
+    padding: 10;
+    margin-bottom: 10;
+    width: 60%;
+    height:15%;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.inp_div{
+    display: flex;
+    justify-content: center;
+    height: 10%;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.inp{
+    font-size: 20px;
+    height: 100%;
+    width: 80%;
+    border-radius: 10px;
+
+
+}
+.lable{
+    font-size: 50px;
+}
